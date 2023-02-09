@@ -1,0 +1,5 @@
+Проект node mongodb handlebars bootstrap
+
+По sublimetext: ctrl+K+V поиск в буфере обмена 
+Alt+F3 замена во всём тексте
+Alt+Shift+W оборачивает текст в тег
